@@ -1,0 +1,6 @@
+Aqui é um exemplo do arquivo exemplo.txt
+Essa é a primeira linha
+Essa é a segunda linha
+Essa é a terceira linha
+Essa é a quinta linha
+Essa é uma nova linha adicionada.
